@@ -1,14 +1,5 @@
-# Expo Router Example
+This is a native app for job searching 
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+You can get the aab file at: https://expo.dev/artifacts/eas/dtLmYP4GEKQzNZR82Tp4AV.aab
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+You can download the APK file from here : https://drive.google.com/file/d/1vZYQNMNf6l5PvzH-Gr8lYcNGCdeMZVOp/view?usp=drive_link
